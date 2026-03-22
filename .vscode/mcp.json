@@ -1,0 +1,19 @@
+{
+	"servers": {
+		"my-mcp-server-24e1428e": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"server.js"
+			]
+		},
+		"bookstoreMCP": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"bookstoreMCP.js"
+			]
+		}
+	},
+	"inputs": []
+}
